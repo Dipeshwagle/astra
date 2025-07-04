@@ -28,7 +28,7 @@ export function RoleSelector({ userId }: { userId: string }) {
     if (role === "child") {
       router.push("/auth/onboarding");
     } else {
-      router.push("/parent-dashboard");
+      router.push("/dashboard");
     }
   };
 
