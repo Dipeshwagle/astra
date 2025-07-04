@@ -28,7 +28,7 @@ export function ChildDashboard({ name }: ChildDashboardProps) {
           Welcome back, {name}! 
         </h2>
         <p className="text-base text-slate-600">
-          Let's continue your learning journey today!
+          Let&apos;s continue your learning journey today!
         </p>
       </div>
 

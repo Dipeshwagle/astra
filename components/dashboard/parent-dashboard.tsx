@@ -13,7 +13,7 @@ export function ParentDashboard({ name }: ParentDashboardProps) {
           Welcome back{name ? `, ${name}` : ""}! 
         </h2>
         <p className="text-base text-slate-600">
-          Monitor your child's learning progress and achievements.
+          Monitor your child&apos;s learning progress and achievements.
         </p>
       </div>
 
@@ -27,7 +27,7 @@ export function ParentDashboard({ name }: ParentDashboardProps) {
             <h3 className="text-lg font-semibold text-slate-700">Child Profiles</h3>
           </div>
           <p className="text-sm text-slate-600 mb-4">
-            Manage and monitor your children's learning profiles and progress.
+            Manage and monitor your children&apos;s learning profiles and progress.
           </p>
           <div className="text-xs text-slate-500 bg-slate-50 px-3 py-2 rounded-md">
             Coming Soon
@@ -42,7 +42,7 @@ export function ParentDashboard({ name }: ParentDashboardProps) {
             <h3 className="text-lg font-semibold text-slate-700">Progress Reports</h3>
           </div>
           <p className="text-sm text-slate-600 mb-4">
-            View detailed reports on your child's skill development and achievements.
+            View detailed reports on your child&apos;s skill development and achievements.
           </p>
           <div className="text-xs text-slate-500 bg-slate-50 px-3 py-2 rounded-md">
             Coming Soon
@@ -73,7 +73,7 @@ export function ParentDashboard({ name }: ParentDashboardProps) {
         </h3>
         <div className="text-center py-8">
           <p className="text-slate-600 mb-4">
-            Parent features are being developed to provide you with comprehensive insights into your child's learning journey.
+            Parent features are being developed to provide you with comprehensive insights into your child&apos;s learning journey.
           </p>
           <p className="text-sm text-slate-500">
             Features coming soon: Child progress tracking, learning analytics, goal setting, and communication tools.
